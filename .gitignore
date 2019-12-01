@@ -3,3 +3,4 @@
 *.exe
 **/ansi189-bin
 *.lock
+**/.idea
