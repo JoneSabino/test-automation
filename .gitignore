@@ -1,0 +1,5 @@
+#Files to ignore
+**/logs
+*.exe
+**/ansi189-bin
+*.lock
